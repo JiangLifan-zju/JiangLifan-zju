@@ -3,7 +3,7 @@
 **Ph.D. Student · Zhejiang University**  
 College of Computer Science and Technology · Doctoral studies since 2025
 
-[🌐 Personal Homepage](https://tankowa.github.io/?lang=en#honors) · [🎓 Google Scholar](https://scholar.google.com/citations?user=CHuMUyEAAAAJ&hl=en) · [📫 Email](mailto:lifanjiang@zju.edu.cn)
+[🌐 Personal Homepage](https://jianglifan-zju.github.io/?lang=en#honors) · [🎓 Google Scholar](https://scholar.google.com/citations?user=CHuMUyEAAAAJ&hl=en) · [📫 Email](mailto:lifanjiang@zju.edu.cn)
 
 ## 🔭 Research
 
@@ -22,7 +22,7 @@ My research focuses on **diffusion models**, **world models**, and **controllabl
 
 National Scholarship · Provincial Outstanding Student Leader · University Merit Student · Five-Excellence Graduate Student · Outstanding Graduate Student
 
-See my [personal homepage](https://tankowa.github.io/?lang=en#honors) for more about my research, experience, and honors.
+See my [personal homepage](https://jianglifan-zju.github.io/?lang=en#honors) for more about my research, experience, and honors.
 
 ## 📫 Contact
 
